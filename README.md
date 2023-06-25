@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Gelosys CRM**
 
-- 🌱 I’m currently learning **NextJS and NodeJS**
+- 🌱 I’m currently learning **Laravel & NodeJS**
 
-- 👯 I’m looking to collaborate on **Laravel, CodeIgniter and ReactJS**
+- 👯 I’m looking to collaborate on **Laravel and CodeIgniter**
 
 - 🤝 I’m looking for help with **PHP**
 
