@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gelosys CRM**
 
-- 🌱 I’m currently learning **Laravel & NodeJS**
+- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS and VueJS**
 
 - 👯 I’m looking to collaborate on **Laravel and CodeIgniter**
 
