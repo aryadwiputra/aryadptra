@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arya Dwi Putra</h1>
-<h3 align="center">A advanced backend developer with PHP from Indonesia</h3>
+<h3 align="center">Advanced backend developer with PHP and NodeJS from Bogor, Indonesia</h3>
 
-- 🔭 I’m currently working on **Gelosys CRM**
+- 🔭 I’m currently working on **Perfex CRM Customization**
 
-- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS and VueJS**
+- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS, AdonisJS and VueJS**
 
-- 👯 I’m looking to collaborate on **Laravel and CodeIgniter**
+- 👯 I’m looking to collaborate on **Laravel, CodeIgniter and VueJS**
 
-- 🤝 I’m looking for help with **PHP**
+- 🤝 I’m looking for help with **PHP (Laravel and CodeIgniter)**
 
-- 💬 Ask me about **PHP, Laravel and CodeIgniter**
+- 💬 Ask me about **PHP, Laravel, CodeIgniter and VueJS**
 
 - 📫 How to reach me **aryaadwptr@gmail.com**
 
