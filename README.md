@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Perfex CRM Customization**
 
-- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS, AdonisJS and VueJS**
+- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS, AdonisJS, VueJS and ReactJS**
 
 - 👯 I’m looking to collaborate on **Laravel, CodeIgniter and VueJS**
 
