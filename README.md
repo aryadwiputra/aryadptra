@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Dwi Putra</h1>
-<h3 align="center">Advanced backend developer with PHP and NodeJS from Bogor, Indonesia</h3>
+<h3 align="center">Advanced full stack developer with Laravel, Vue and React from Bogor, Indonesia</h3>
 
 - 🔭 I’m currently working on **Perfex CRM Customization**
 
