@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arya Dwi Putra</h1>
 <h3 align="center">Advanced full stack developer with Laravel, Vue and React from Bogor, Indonesia</h3>
 
-- 🔭 I’m currently working on **Perfex CRM Customization**
+- 🔭 I’m currently working on **Perfex CRM Customization and Build Online Travel Agent Apps**
 
-- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS, AdonisJS, VueJS and ReactJS**
+- 🌱 I’m currently learning **Laravel, Inertia, ExpressJS, VueJS and ReactJS**
 
 - 👯 I’m looking to collaborate on **Laravel, CodeIgniter and VueJS**
 
